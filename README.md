@@ -2,4 +2,4 @@
 <img src="captures/capt001.png">
 
 <h1>Partie serveur</h1>
-<p>Cliquer ici vous voir le repository de la partie serveur </p> <a href="https://github.com/hams-12/monserveurjaxws"></a>
+<p>Cliquer ici vous voir le repository de la partie serveur https://github.com/hams-12/monserveurjaxws</p>
